@@ -1,1 +1,3 @@
-# duplicates_detection_using_deep_learning
+# Duplicates Detection Using Deep Learning
+
+The effects of Big Data might affect unfavorably the process of duplicates detection when we want to integrate two or more databases. For example, the description of a product in Amazon might contain a lot of text and use specific vocabulary and grammatic style, and the description of the same product on ebay, can also contain a lot of text but its vocabulary and style might be completely different. Then, deciding on whether we are facing a duplicate or not, turns into a hard task. Fortunately, advances in the deep learning field, have enabled us to overcome these issues (to some extent) and have generated promising results. This jupyter notebook contains an example of how we can use deep learning to detect duplicates using the deepmatcher library.
